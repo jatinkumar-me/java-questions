@@ -1,0 +1,85 @@
+Java String Programs
+    1. Java Program to Find the First Non-repeated Character in a String
+    2. Java Program to Check Palindrome String
+    3. Java Program to Find Duplicate Characters in a String
+    4. Java Program to Find Duplicate Words in a String
+    5. Java Program to Find All the Permutations of a String
+    6. Java Program to Count Occurrences of Words in a String
+    7. Java Program to Count the Occurrences of Each Character
+    8. Java Program to Count Vowels and Consonants in a String
+    9. Java program to Count the Number of Duplicate Words in a String
+    10. Java Program to Count Number of Words in Given String
+    11. Java Program to Count the Number of Occurrences of Substring in a String
+    12. Java Program to Count the Occurrences of Each Character in String
+    13. Java Program to Merge Two String Arrays
+    14. Java Program to Remove Duplicate Words from String
+    15. Java Program to Reverse a String(5 ways)
+    16. Java Program to Reverse Each Word of a String
+    17. Java Program to Swap Two Strings
+    18. How to Check if the String Contains Only Digits
+    19. How to Check if the String Contains Only Letters
+    20. How to Check If the String Contains Only Letters or Digits
+    21. Java Program to Remove All Whitespaces from a String
+    22. Java Program to Check if a String is Empty or Null
+    23. Java Program to Find Maximum Occurring Character in String
+    24. Java Program to Add Characters to a String
+    25. Java Program to Remove All Whitespaces from a String
+    26. Java Program to Check if a String is Empty or Null
+    27. Java Program to Find Maximum Occurring Character in String
+    28. Java Program to Check if a Year is a Leap Year
+    29. Java Program to Display Characters from A to Z using Loop
+    30. Java Program To Count the Occurrences of Each Character Using HashMap
+Java Array Programs with Output
+    1. Java Program to Reverse an Array Without Using Another Array
+    2. Java Program to Find Duplicate Elements in an Array
+    3. Java Program to Find Largest Number in an Array
+    4. Java Program to Check the Equality of Two Arrays
+    5. Java Program to Calculate Average Using Arrays
+    6. Java Program to Sort the Array Elements in Descending Order
+Java Number Programs with Output
+    1. Java Program to Find Factorial Using Recursion
+    2. Java Program to Find Sum of Natural Numbers
+    3. Java Program to Reverse a Number
+    4. Java Program to Find Prime Numbers
+    5. Java Program to Check Armstrong Number
+    6. Java Program to Count the Number of Digits in a Number
+    7. Java Program for Prime Numbers Within a Range
+    8. Java Program to Find the Largest of Three Numbers
+    9. Java Program to Check if a Number is Prime
+    10. Java Program to Find the Fibonacci Series
+    11. Java Program to Check if a Number is Positive or Negative
+    12. Java Program to Find GCD of Two Numbers
+    13. Java Program to Find Strong Number
+    14. Java Program to Find LCM of Two Numbers
+    15. Java Program to Check Palindrome Number
+    16. Java Program to Swap Two Numbers Without Using a Temp Variable
+    17. Java Program to Find the Second Largest Number in an Array
+    18. Java Program to Find GCD of Two Numbers
+    19. Java Program to Find Strong Number
+    20. Java Program to Find LCM of Two Numbers
+    21. Java Program to Check Palindrome Number
+    22. Java Program to Find the Largest of Three Numbers
+    23. Java Program to Check if a Number is Prime
+    24. Java Program to Swap Two Numbers Without Using a Temp Variable
+    25. Java Program to Find the Second Largest Number in an Array
+    26. Java Program to Check if a Given Number is Perfect Square
+    27. Java Program to Find the Fibonacci Series
+    28. Java Program to Check if a Number is Positive or Negative
+Java 8 Programs with Output
+    1. Java 8 Program to Find the Frequency of Each Character in a Given String
+    2. Java 8 Program to Find the Maximum Number and Minimum Number in a List
+    3. Java 8 Program to Find the Second Largest Number in the List of Integers
+    4. Java 8 Program to Find the Age of a Person if the Birthday Date has Given
+    5. Java 8 Program to Find the Sum of All Digits of a Number
+    6. Java 8 Program to Print Even Numbers from a List
+    7. Java 8 Program to Remove Duplicate Elements from a List
+    8. Java 8 Program to Retrieve Last Element of a List of Strings
+    9. Java 8 Program to Reverse Each Word of String
+    10. Java 8 Program to Sort List of Strings Alphabetically
+    11. Java 8 Programs for Interview | Java 8 Interview Coding Questions and Answers
+    12. Java 8 Program To Count Characters in a String
+    13. Java 8 Program To Find First Repeated Character in a String
+    14. Java 8 Program to Concatenate Two Streams
+    15. Java 8 Program To Reverse a String
+    16. Java 8 Program To Find Prime Number
+    17. Java 8 Program To Find the Minimum and Maximum Number of a Stream
